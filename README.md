@@ -1,3 +1,4 @@
+- Olá! Eu sou a Janaina Mello Moletta
 - 🔭 Sou estudante, faço faculdade em Gestão da Tecnologia de Informação EAD Unicessumar.
 - 🌱 Iniciante na área de programação.
-- 📫 mjana8134@gmail.com
+- 📫 contate-me no email : mjana8134@gmail.com
