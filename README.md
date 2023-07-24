@@ -1,6 +1,6 @@
 - Olá! Eu sou a Janaina Mello Moletta
-- 🔭 Sou estudante, faço faculdade em Gestão da Tecnologia de Informação EAD Unicessumar.
-- 🌱 Iniciante na área de programação.
+- 🔭 Formada em Gestão da Tecnologia da Informação e MBA em Gestão da Tecnologia da Informação.
+- 🌱 Estudante de programação.
 - 📫 contate-me no email : mjana8134@gmail.com
 <div>
   <a href="https://beacons.ai/rafaballerini">
